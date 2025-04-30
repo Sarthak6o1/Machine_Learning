@@ -1,7 +1,5 @@
-# Machine_Learning
-My Machine Learning Repository.
+# Operation Systems
 <br>
 Author-Sarthak Gupta
-Course:ML
-College
+
 
