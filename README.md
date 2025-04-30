@@ -1,4 +1,4 @@
-# Operation Systems
+# Operating Systems
 <br>
 Author-Sarthak Gupta
 
